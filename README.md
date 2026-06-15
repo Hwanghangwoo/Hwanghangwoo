@@ -17,7 +17,7 @@
 | Category      | Description                                               |
 | ------------- | --------------------------------------------------------- |
 | **Field**     | Web Security · Penetration Testing · Red Team             |
-| **Education** | Korea University · AI Cyber Security / Privacy Protection |
+| **Education** | 고려대학교 세종캠퍼스 · 인공지능사이버보안학과 / 개인정보보호융합전공 |
 | **Training**  | WhiteHat School 3기 · K-Shield Junior 16기                  |
 | **Team**      | RubiyaLab CTF Team                                        |
 
