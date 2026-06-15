@@ -39,7 +39,7 @@
 
 | Project                                                              | Role             | Keywords                                              |
 | -------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- |
-| [**WH_MALL**](https://github.com/WHS-PentestingPlayground/WH_MALL)   | PM · 개발          | `Spring Boot` `Shopping Mall Scenario` `Coupon Logic` |
+| [**WH_MALL**](https://github.com/WHS-PentestingPlayground/WH_MALL)   | 시나리오 기획·개발     | `Spring Boot` `Shopping Mall Scenario` `Coupon Logic` |
 | [**Robotics**](https://github.com/WHS-PentestingPlayground/Robotics) | 시나리오 기획·개발       | `Spring Boot` `JSP` `File Download Vulnerability`     |
 | [**KSJ-Recon**](https://github.com/KSJ-16-Project/KSJ-Recon)         | PL · SQLi Module | `Recon` `Playwright` `SQL Injection Detection`        |
 
