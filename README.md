@@ -18,7 +18,7 @@
 | ------------- | --------------------------------------------------------- |
 | **Field**     | Web Security · Penetration Testing · Red Team             |
 | **Education** | 고려대학교 세종캠퍼스 · 인공지능사이버보안학과 / 개인정보보호융합전공 |
-| **Training**  | WhiteHat School 3기 · K-Shield Junior 16기                  |
+| **Training**  | WhiteHat School 3기 · K-Shield Junior 16기 모의해킹 및 취약점진단 트랙   |
 | **Team**      | RubiyaLab CTF Team                                        |
 
 ---
